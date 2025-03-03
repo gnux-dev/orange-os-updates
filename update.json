@@ -1,24 +1,24 @@
 {
   "updates": [
     {
-      "version": "1.2.0",
-      "date": "2025-03-04",
-      "description": "Nueva función de sincronización en la nube."
+      "version": "1.0.1",
+      "date": "2025-03-03",
+      "description": "Nuevo Gnux Update."
     },
     {
-      "version": "1.1.5",
-      "date": "2025-02-20",
+      "version": "1.0.1",
+      "date": "2025-03-03",
       "description": "Mejoras en la interfaz de usuario."
     },
     {
-      "version": "1.1.0",
-      "date": "2025-01-15",
-      "description": "Soporte para múltiples idiomas."
+      "version": "1.0.1",
+      "date": "2025-03-03",
+      "description": "Actualización de los términos de servicio."
     },
     {
-      "version": "1.0.0",
-      "date": "2024-12-01",
-      "description": "Lanzamiento inicial de Orange OS."
+      "version": "1.0.1",
+      "date": "2025-03-03",
+      "description": "Nueva y dinámica pantalla de inicio a la app."
     }
   ]
 }
