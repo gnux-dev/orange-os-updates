@@ -8,17 +8,10 @@
     {
       "version": "1.0.1",
       "date": "2025-03-03",
-      "description": "Mejoras en la interfaz de usuario."
-    },
-    {
-      "version": "1.0.1",
-      "date": "2025-03-03",
-      "description": "Actualización de los términos de servicio."
-    },
-    {
-      "version": "1.0.1",
-      "date": "2025-03-03",
-      "description": "Nueva y dinámica pantalla de inicio a la app."
+      "description": "Nueva y dinámica pantalla de inicio a la app.
+Nuevo Gnux Update.
+Mejoras en la interfaz de usuario.
+Actualizamos nuestras políticas, porfavor lealas y aceptelas para usar el servicio bajo estos nuevos lineamientos."
     }
   ]
 }
